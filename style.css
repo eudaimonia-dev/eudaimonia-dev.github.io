@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body {
+    font-family: "Roboto";
+}
+
+h2 {
+    font-size: 5rem;
+    font-weight: bold;
+    padding: 2.5rem;
+}
+
+.soonest {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.countdown {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding: 0rem 2.5rem 2.5rem;
+}
+
+.day, .hour, .min, .sec {
+    font-size: 2.5rem;
+}
+
+.dev {
+    /* height: 70vh; */
+}
