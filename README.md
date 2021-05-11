@@ -10,7 +10,7 @@ Eudaimonia is an umbrella psuedonum for all my passion & professional projects, 
 ---
 
 ## Who
-Zimvo a self-taught mobile developer with experiencing using the followwing technologies
+Zimvo a self-taught mobile developer with fundamentals using the following technologies
 ```html
 - Kotlin //intermediate
 - Python #intermediate
