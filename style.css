@@ -17,6 +17,7 @@ h2 {
 }
 
 .soonest {
+    background-color:beige;
     min-height: 100vh;
     display: flex;
     align-items: center;
