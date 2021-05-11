@@ -38,3 +38,17 @@ h2 {
 .dev {
     /* height: 70vh; */
 }
+
+.contact {
+    border-bottom: 0;
+}
+
+.flick {
+    animation: blinker 2s linear infinite;
+    color: #162a2e;
+}
+@keyframes blinker {
+    50% {
+        opacity: 0;
+    }
+}
