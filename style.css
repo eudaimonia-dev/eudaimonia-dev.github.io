@@ -36,9 +36,6 @@ h2 {
     font-size: 2.5rem;
 }
 
-.dev {
-    /* height: 70vh; */
-}
 
 .flick {
     animation: blinker 2s linear infinite;
